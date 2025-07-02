@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://www.macista.co.ke/*"
+  to = "https://macista.co.ke/:splat"
+  status = 301
+  force = true
